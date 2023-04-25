@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:mhmohammadirad@gmail.com)
 [![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/mohammadrad/)
 [![](https://img.shields.io/badge/-Website-gray?style=for-the-badge&logo=github&logoColor=black)](https://mhmohammadirad.github.io)
@@ -57,6 +55,7 @@ I am passionate about computing science, and  I see myself as somebody who loves
 -->
 
 </p>
+
 
 <p align=center>
 <br>
