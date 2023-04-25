@@ -1,6 +1,10 @@
-[![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:mhmohammadirad@gmail.com)
-[![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/mohammadrad/)
-[![](https://img.shields.io/badge/-Website-gray?style=for-the-badge&logo=github&logoColor=black)](https://mhmohammadirad.github.io)
+## Hi there 👋
+
+<div style="text-align:center;">
+    <a href="mailto:mhmohammadirad@gmail.com"><img src="https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail" alt="Gmail"></a>
+    <a href="https://www.linkedin.com/in/mohammadrad/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn" alt="LinkedIn"></a>
+    <a href="https://mhmohammadirad.github.io"><img src="https://img.shields.io/badge/-Website-gray?style=for-the-badge&logo=github&logoColor=black" alt="Website"></a>
+</div>
 
 # About Me
 
@@ -51,11 +55,7 @@ I am passionate about computing science, and  I see myself as somebody who loves
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmohammadirad&theme=dracula" alt="Mohammad H. Mohammadirad stat" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmohammadirad&layout=compact&theme=dracula&langs_count=12"/>
 
-[![GitHub activity](https://activity-graph.herokuapp.com/graph?username=mhmohammadirad&theme=dracula)](https://github.com/mhmohammadirad)
--->
-
 </p>
-
 
 <p align=center>
 <br>
