@@ -1,4 +1,4 @@
-<!-- ## Hi there 👋 -->
+## Let's Connect 👋
 
 <p align="center">
     <a href="mailto:mhmohammadirad@gmail.com"><img src="https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail" alt="Gmail"></a>
@@ -7,13 +7,11 @@
 </div>
 
 # About Me
+Hi! My name is Mohammad Hosein Mohammadirad. I'm currently in Oulu, Finland. I'm a Business Analytics student at the University of Oulu, where I received a scholarship for talented students.
 
-My name is Mohammad Hosein Mohammadirad.
-My status will be here.
+I graduated with a B.Sc. in Computer Engineering from Amirkabir University of Technology (AUT). I have three years of experience as a data scientist with strong skills in Python, Node.js, AI, and databases. I particularly enjoy working with SQL queries.
 
-<!-- I graduated with a B.Sc degree in **Computer Engineering** from Amirkabir University of Technology (AUT).\
-I love programming and learning new things! My primary skills and programming languages are Java, C#, Python, Unity3D, Deep Learning, and GANs. I am presently concentrating on learning more about Artificial Intelligence(especially Computer Vision). I am also interested in AR and VR applications. \
-I am passionate about computing science, and  I see myself as somebody who loves working on challenging problems and coming up with creative solutions! -->
+I’m passionate about software development, machine learning, data science, and business analytics.
 
 # My Skills
 
