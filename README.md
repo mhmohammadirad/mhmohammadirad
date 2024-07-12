@@ -7,9 +7,9 @@
 </div>
 
 # About Me
-Hi! My name is Mohammad Hosein Mohammadirad. I'm currently in Oulu, Finland. I'm a Business Analytics student at the University of Oulu, where I received a scholarship for talented students.
+Hi! My name is Mohammad Hosein Mohammadirad. I'm currently in Oulu, Finland. I'm a **Business Analytics** student at the **University of Oulu**, where I received a scholarship for talented students.
 
-I graduated with a B.Sc. in Computer Engineering from Amirkabir University of Technology (AUT). I have three years of experience as a data scientist with strong skills in Python, Node.js, AI, and databases. I particularly enjoy working with SQL queries.
+I graduated with a B.Sc. in **Computer Engineering** from **Amirkabir University of Technology** (AUT). I have three years of experience as a data scientist with strong skills in Python, Node.js, AI, and databases. I particularly enjoy working with SQL queries.
 
 I’m passionate about software development, machine learning, data science, and business analytics.
 
