@@ -11,7 +11,7 @@ Hi! My name is Mohammad Hosein Mohammadirad. I'm currently in Oulu, Finland. I'm
 
 I graduated with a B.Sc. in **Computer Engineering** from **Amirkabir University of Technology** (AUT). I have three years of experience as a data scientist with strong skills in Python, Node.js, AI, and databases. I particularly enjoy working with SQL queries.
 
-I have implemented a recommender system, a pricing estimation module using linear regression, a named entity recognition module using the Spacy open-source library, and have done extensive work with Metabase, dashboards, and query optimization. My projects are mainly in private repositories, so if you’re interested, contact me and we can discuss them in detail.
+I have implemented a **recommender system**, a **pricing estimation** module using linear regression, a **Named Entity Recognition** (NER) module using the Spacy open-source library, and have done extensive work with **Metabase**, dashboards, and **query optimization**. Additionally, I have worked on **Deep Reinforcement Learning** for **autonomous driving** in a simulated environment (Carla). My projects are mainly in private repositories, so if you’re interested, contact me and we can discuss them in detail.
 
 I’m passionate about software development, machine learning, data science, and business analytics.
 
