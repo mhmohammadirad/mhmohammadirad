@@ -47,12 +47,12 @@ I’m passionate about software development, machine learning, data science, and
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/> </a>
 </p>
 
-## My Github information:
+<!-- ## My Github information:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhmohammadirad&show_icons=true&theme=dracula&count_private=true&" alt="Mohammad H. Mohammadirad's Github stat" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmohammadirad&theme=dracula" alt="Mohammad H. Mohammadirad stat" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmohammadirad&layout=compact&theme=dracula&langs_count=12"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmohammadirad&layout=compact&theme=dracula&langs_count=12"/> -->
 
 </p>
 
